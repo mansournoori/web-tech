@@ -1,0 +1,14 @@
+#head
+{
+    text-align:center;
+}
+#map
+{
+    width:900px;
+    float:bottom;
+    margin-left:300px;
+}
+body
+{
+    background-color:gray;
+}

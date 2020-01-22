@@ -1,0 +1,50 @@
+body
+{background-color:gray;
+color:white;}
+#section
+{
+    width:1000px;
+    border:2px solid black;
+    margin-left:230px;
+}
+#heading
+{
+    text-align:center;
+}
+.buttons1
+{
+    margin-left:350px;
+}
+#p1
+{
+    margin-left:250px;
+}
+#p2
+{
+    margin-left:200px;
+}
+#suggestion
+{
+    margin-left:300px;
+}
+#text_area
+{
+    width:350px;
+    height:150px;
+    margin-left:300px;
+}
+#p3
+{
+    margin-top:-177px;
+    margin-left:720px;
+}
+#p4
+{
+    margin-left:540px;
+    margin-top:-15px;
+}
+#b
+{
+    margin-left:400px;
+    padding:50px;
+}
